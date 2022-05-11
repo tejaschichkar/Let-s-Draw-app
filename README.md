@@ -1,2 +1,2 @@
 # Let-s-Draw-app 
-Draw different shapes with this python (turlte programme.
+Draw different shapes with this python (turlte) programme.
